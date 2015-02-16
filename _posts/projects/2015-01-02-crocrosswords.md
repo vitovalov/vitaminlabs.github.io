@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "CRO: Crosswords"
-categories: project
+categories: projects
 excerpt: "Crossword - all you're looking for. Best design, infinite questions, super game."
 ads: true
 share: false
