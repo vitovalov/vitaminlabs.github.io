@@ -4,6 +4,7 @@ title: "Puppy Game"
 categories: projects
 excerpt: "Play with pug! Make him jump and collect his favorite food. Simple and fun!"
 ads: true
+tags: ["android", "game", "free android game"]
 share: false
 image:
   feature: puppy-1600x800.png
