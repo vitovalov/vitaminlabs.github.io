@@ -1,0 +1,22 @@
+# Authors
+
+vitaliy_konovalov:
+  name: Vitaliy Konovalov
+  web: https://twitter.com/vitovalov
+  email: vitovalov@gmail.com
+  bio: "Mobile apps developer"
+  # avatar: bio-photo.jpg
+  twitter: vitovalov
+  google:
+    plus: +vitovalov
+
+maryna_chervinska:
+  name: Maryna Chervinska
+  web: https://www.behance.net/ITMaryna
+  behance: ITMaryna
+  email: chervinskam@gmail.com
+  bio: "Designer from 1992"
+  # avatar: bio-photo.jpg
+  twitter: chervinskam
+  google:
+    plus: +chervinskam

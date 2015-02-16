@@ -1,0 +1,37 @@
+# Site wide configuration
+
+title: Vitamin Labs
+description: "Best mobile apps creators."
+logo: logo.png
+teaser: 400x250.gif
+locale: en_US
+url: //vitaminlabs.github.io
+
+# Jekyll configuration
+
+sass:
+  sass_dir: _sass
+  style: compressed
+permalink: /:categories/:title/
+markdown: kramdown
+highlighter: pygments
+gems:
+  - jekyll-sitemap
+
+
+# Site owner
+owner:
+  name: Vitamin Labs.
+  web: http://vitaminlabs.github.io
+  email: labs.vitamin@gmail.com
+  twitter: Vitamin_Labs
+  bio: "We are a small team working hard by creating mobile apps to solve problems. Mobile developer: Vitaliy Konovalov. Graphic designer Maryna Chervinska"
+  avatar: bio-photo.jpg # 160x160 px image for author byline
+  google:
+    plus: +vitovalov
+    ad-client: ca-pub-4917506842790759
+    ad-slot: 9389471426
+  disqus-shortname:
+
+
+exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]

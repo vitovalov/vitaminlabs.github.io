@@ -1,0 +1,11 @@
+# Site navigation links
+
+- title: Projects
+  url: /projects/
+  excerpt: "Explore our latest creations. See how they were made"
+  image: projects.png
+
+- title: About
+  url: /about/
+  excerpt: "All about Vitamin Labs"
+  image: about.png
