@@ -1,5 +1,6 @@
 ---
 layout: home
+tags: [Maryna, git, android, design, android apps, android design apps, design nice apps, best android apps, mobile apps, mobile applications, android developer, Vitaliy, tester, quality assurance, itmaryna, puppy game, cro, cro crosswords, android barcelona, spain apps, spain android, android best developers, free apps]
 permalink: /
 image:
   feature: main-background.png
