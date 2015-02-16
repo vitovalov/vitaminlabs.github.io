@@ -4,6 +4,8 @@ title: "CRO: Crosswords"
 categories: projects
 excerpt: "Crossword - all you're looking for. Best design, infinite questions, super game."
 ads: true
+tags: [Maryna, git, android, design, android apps, android design apps, design nice apps, best android apps, mobile apps, mobile applications, android developer, Vitaliy, tester, quality assurance, itmaryna, puppy game, cro, cro crosswords, android barcelona, spain apps, spain android, android best developers, free apps]
+
 share: false
 image:
   feature: cross-1600x800.png
