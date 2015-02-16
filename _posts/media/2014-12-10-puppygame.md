@@ -1,7 +1,7 @@
 ---
 layout: media
 title: "Puppy Game"
-categories: projects
+categories: media
 excerpt: "Play with pug! Make him jump and collect his favorite food. Simple and fun!"
 ads: true
 share: false
