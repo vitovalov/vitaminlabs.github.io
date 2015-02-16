@@ -75,7 +75,7 @@
 		}
 		.teaser {
 			width: 150px;
-			border: 2px solid $white;
+			//border: 2px solid $white;
 			margin-bottom: ($gutter / 2);
 			@include media($medium) {
 				position: absolute;
