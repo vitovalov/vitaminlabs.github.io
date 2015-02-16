@@ -1,36 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://vitaminlabs.github.io/media/crocrosswords/</loc>
+    <loc>http://vitaminlabs.github.io/projects/crocrosswords/</loc>
     <lastmod>2015-01-02T00:00:00+01:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://vitaminlabs.github.io/media/puppygame/</loc>
+    <loc>http://vitaminlabs.github.io/projects/puppygame/</loc>
     <lastmod>2014-12-10T00:00:00+01:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>http://vitaminlabs.github.io/projects/</loc>
-    <lastmod>2015-02-16T02:02:11+01:00</lastmod>
+    <lastmod>2015-02-16T23:26:11+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://vitaminlabs.github.io/about/</loc>
-    <lastmod>2015-02-16T02:02:11+01:00</lastmod>
+    <lastmod>2015-02-16T23:26:11+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://vitaminlabs.github.io/terms/</loc>
-    <lastmod>2015-02-16T02:02:11+01:00</lastmod>
+    <lastmod>2015-02-16T23:26:11+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://vitaminlabs.github.io/</loc>
-    <lastmod>2015-02-16T02:02:11+01:00</lastmod>
+    <lastmod>2015-02-16T23:26:11+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
