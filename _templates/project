@@ -1,5 +1,5 @@
 ---
-layout: media
+layout: project
 title: {{ title }}
 modified:
 categories: {{ dir }}
