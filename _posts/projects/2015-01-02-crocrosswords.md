@@ -14,28 +14,27 @@ image:
   creditlink: https://www.behance.net/ITMaryna
 ---
 
-The crossword puzzle game - amazing game to have a good time on the go.
+The crossword puzzle game - It's an amazing game to have a good time on the go.
 
-This excellent game generates more than two million crosswords in three languages. Try to complete them all :) You simply can't get bored with this game. You will be able to learn languages and play crossword puzzles in english, spanish and russian.
+With the use of this unique app it's possible to generate more than two million crosswords in three languages. Try to complete them all :) You simply can't get bored with this game. You will be able to learn languages and play crossword puzzles in English, Spanish and Russian.
 
-The crossword is the best tool for educational games for children because they will be interesting for both girls and boys.
+The crossword is great to unenforceable educational purposes and children will surely find it very amusing
 
-With this game you can test your knowledge and erudition, and if you need help just click on the lamp image next to the question. A button with a picture of eye will help to hide the question that you could look at the crossword puzzle as a whole.
+With this game you can challenge your knowledge and erudition, and if you need help just click on the lamp image next to the question. 
 
-## The design
+The button with a picture of an eye will help you to hide the question so it not overlaps with your crossword.
 
-The design of CRO, the crossword puzzle game is simple and easy. The colors and structure were made in the new style and the latest trend - Material design. You will enjoy even more if you play on a Lollipop ready device. We also take care of your vision and with this game you don't need to read small letters. 
+The design of CRO, the crossword puzzle game is simple and easy. The colors and structure were made in a stylish and trendy way - Material design. You will enjoy even more if you play on a Lollipop ready device. And considering the bothersome effects of eye strain we have improved the commonly used font size
 
-## How to play
-To start crossword puzzle click on the circular arrow and to change the language - on the gear. You see, the app is absolutely simple and has nothing superfluous. It's impossible to get confused!
+To start a crossword puzzle click on the circular arrow and to change the language - on the gear. You see, the app is absolutely simple and has nothing superfluous.  It's impossible to get confused!
 
 You can download the game for free.
 
-Remember, this is an incredible game that will be good for everyone.
+Don't miss out and try it!
 
-## Share with yours
+## Share it! 
 
-And do not forget to share CRO, the crossword game with your friends! They definitely will be happy.
+Invite your friends to download the CRO app and share the fun. The more the merrier!
 
 If you have any questions, suggestions or comments please write directly to our support e-mail:
 vitaminlabs.help@gmail.com

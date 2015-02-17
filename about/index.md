@@ -17,14 +17,10 @@ ads: false
 __Project Manager & Mobile developer__
 
 Vitaliy Konovalov 
-- follow me at [twitter](https://twitter.com/vitovalov)
+- follow me on [Twitter](https://twitter.com/vitovalov)
 
 __Designer and Q&A__
 
 Maryna Chervinska
-- You can find me and my works at [behance](https://www.behance.net/ITMaryna)
-
-## Our goal
-
-Create apps that will help people to solve their problems.
+- You can find out more about me and my works at [Behance](https://www.behance.net/ITMaryna)
 

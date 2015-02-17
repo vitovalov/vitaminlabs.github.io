@@ -10,17 +10,19 @@ image:
 
 <div class="tile">
   <h2 class="post-title">Who we are</h2>
-  <p class="post-excerpt">We are young team who works to solve your problems within a mobile device. Our dream is to create simple, useful and beautiful apps for people who needs them. And our dream is coming true with you:) </p>
+  <p class="post-excerpt"> 
+  We are a diverse team comprised of a unique set of individuals — each specialists in their own respective fields of design & development, unified by a single desire to create amazing digital products.
+</p>
 </div><!-- /.tile -->
 
 <div class="tile">
   <h2 class="post-title">What we do</h2>
-  <p class="post-excerpt">We are creating mobile application for people who wants to have all the best on their phones. Our apps are like vitamins - essential for your phone. With them your device is more outstanding and you are more happy.</p>
+  <p class="post-excerpt"> We create mobile apps as well as provide services from Design UX/UI, Quality Assurance, to Translation. Our apps are like vitamins - essential for your phone, making it more exceptional.</p>
 </div><!-- /.tile -->
 
 <div class="tile">
   <h2 class="post-title">How we do it</h2>
-  <p class="post-excerpt">We work really hard. From inspiration and idea we pass through all the process of software development. We deliver highly reliable and nicely designed apps. We design, develop and test software.</p>
+  <p class="post-excerpt">We work really hard to ensure the quality. From inspiration and idea we pass through all the phases of software development. Our mission is to deliver highly reliable and beautifully designed apps.</p>
 </div><!-- /.tile -->
 
 <div class="tile">
